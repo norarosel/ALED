@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 1
+Bundle-Name: %plugin.aled-lab5.name
+Bundle-SymbolicName: es.upm.dit.aled-lab5;singleton:=true
+Bundle-Version: 1.1.0.qualifier
+Bundle-Vendor: %providerName
+Bundle-Localization: plugin
+Bundle-RequiredExecutionEnvironment: J2SE-11
+Require-Bundle: org.eclipse.swt,
+ org.apache.ant,
+ org.eclipse.core.runtime
+Bundle-ActivationPolicy: lazy
