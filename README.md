@@ -1,2 +1,2 @@
 # Algorithms and Data Structures 
-This repository is used for the class Computer Algorithms and Data Structures at UPM in the year 2023.
+This repository is used for the class Algorithms and Data Structures at UPM in the year 2023.
